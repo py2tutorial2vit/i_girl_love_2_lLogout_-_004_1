@@ -1,0 +1,30 @@
+vitaliy1910@vitaliy1910-TCM82:~/Рабочий стол$ . ./cd2
+vitaliy1910@vitaliy1910-TCM82:~/Рабочий стол/mt_forge$ cd i_girl_love_2_lLogout_аутент_004_1
+vitaliy1910@vitaliy1910-TCM82:~/Рабочий стол/mt_forge/i_girl_love_2_lLogout_ауте
+нт_004_1$ git add --all
+vitaliy1910@vitaliy1910-TCM82:~/Рабочий стол/mt_forge/i_girl_love_2_lLogout_ауте
+нт_004_1$ git commit -m "im bootstrap commit"
+[master 3883452] im bootstrap commit
+ 10 files changed, 32 insertions(+), 10 deletions(-)
+ mode change 100644 => 100755 i_girl_love_s/__init__.py
+ mode change 100644 => 100755 i_girl_love_s/apps.py
+ mode change 100644 => 100755 i_girl_love_s/migrations/0001_initial.py
+ mode change 100644 => 100755 i_girl_love_s/migrations/0002_sweetmeat_owner.py
+ mode change 100644 => 100755 i_girl_love_s/migrations/__init__.py
+ mode change 100644 => 100755 i_girl_love_s/tests.py
+vitaliy1910@vitaliy1910-TCM82:~/Рабочий стол/mt_forge/i_girl_love_2_lLogout_ауте
+нт_004_1$ git push -u origin master
+Username for 'https://github.com': vitaliy59o21
+Password for 'https://vitaliy59o21@github.com': 
+Перечисление объектов: 23, готово.
+Подсчет объектов: 100% (23/23), готово.
+При сжатии изменений используется до 4 потоков
+Сжатие объектов: 100% (10/10), готово.
+Запись объектов: 100% (12/12), 1.71 KiB | 877.00 KiB/s, готово.
+Всего 12 (изменения 6), повторно использовано 0 (изменения 0)
+remote: Resolving deltas: 100% (6/6), completed with 5 local objects.
+To https://github.com/vitaliy59o21/i_girl_love_2_lLogout_-_004_1.git
+   6bf0039..3883452  master -> master
+Ветка «master» отслеживает внешнюю ветку «master» из «origin».
+vitaliy1910@vitaliy1910-TCM82:~/Рабочий стол/mt_forge/i_girl_love_2_lLogout_ауте
+нт_004_1$ 
